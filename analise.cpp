@@ -3,6 +3,7 @@
 #include<string.h> 
 #include<math.h> 
 #include<stdlib.h> 
+	printf ('seja bem vindo! \n');
    char dscpl[3][100]; 
    float medias[3][4], tpt[3] , notaex; 
    int x,y; 
